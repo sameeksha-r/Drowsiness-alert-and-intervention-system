@@ -1,4 +1,4 @@
-# 😴 Drowsy Alert and Intervention System
+# Drowsy Alert and Intervention System
 
 A real-time drowsiness detection and intervention system built using **Raspberry Pi 4**, **OpenCV**, and **dlib**. The system monitors the driver's eye movements using a webcam and triggers alerts when drowsiness is detected, helping prevent road accidents caused by driver fatigue.
 
